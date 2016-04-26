@@ -1,0 +1,50 @@
+{
+    "uudama": [
+        {
+            "id": "100",
+            "code_type": "1006",
+            "min_length": "0",
+            "max_length": "0",
+            "description": "1～6位英文或数字"
+        },
+        {
+            "id": "110",
+            "code_type": "9001",
+            "min_length": "0",
+            "max_length": "0",
+            "description": "九宫格专用,返还对应汉字数字编号"
+        }
+    ],
+    "rkdama": [
+        {
+            "id": "100",
+            "code_type": "3000",
+            "min_length": "0",
+            "max_length": "0",
+            "description": "任意长度英数混合"
+        },
+        {
+            "id": "110",
+            "code_type": "6112",
+            "min_length": "0",
+            "max_length": "0",
+            "description": "新浪九宫格"
+        }
+    ],
+    "lzdama": [
+        {
+            "id": "100",
+            "code_type": "26",
+            "min_length": "0",
+            "max_length": "0",
+            "description": "6位字母加数字（6位纯字母）"
+        },
+        {
+            "id": "110",
+            "code_type": "3",
+            "min_length": "0",
+            "max_length": "0",
+            "description": "九宫格验证码"
+        }
+    ]
+}

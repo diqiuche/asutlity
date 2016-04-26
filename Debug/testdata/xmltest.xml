@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="gb2312" standalone="yes" ?>
+<ConfigSetting>
+    <PersonID>人名</PersonID>
+    <PersonXml>
+        <Path>张总</Path>
+        <Path>李总</Path>
+    </PersonXml>
+</ConfigSetting>
